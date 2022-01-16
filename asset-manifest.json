@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/nwHacksPage/static/css/main.af65d407.css",
+    "main.js": "/nwHacksPage/static/js/main.acb4cb52.js",
+    "static/media/background.jpg": "/nwHacksPage/static/media/background.cf8681606e2937c80cc3.jpg",
+    "index.html": "/nwHacksPage/index.html",
+    "main.af65d407.css.map": "/nwHacksPage/static/css/main.af65d407.css.map",
+    "main.acb4cb52.js.map": "/nwHacksPage/static/js/main.acb4cb52.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af65d407.css",
+    "static/js/main.acb4cb52.js"
+  ]
+}
